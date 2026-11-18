@@ -1,119 +1,78 @@
-# Hi, I'm Nakshatra Sree S 👋
+# Hi, I'm Nakshatra S 👋
 
-### Electronics & Communication Engineering Student | Embedded Systems | Python | AI/GenAI | IoT | Web Development
+### Student Creator | Python | AI Automation | Web Development | Design | Digital Projects
 
-I'm an **ECE undergraduate** interested in building practical solutions at the intersection of **embedded systems, software, IoT, and AI**.
+I'm a student exploring **digital skills, technology, automation, and online creative work** while building practical projects and learning how to turn skills into real-world opportunities.
 
-I enjoy working with both hardware and software — from microcontroller-based systems and communication protocols to Python applications, AI/GenAI projects, and web-based solutions.
-
----
-
-## 🚀 About Me
-
-- 🎓 Electronics & Communication Engineering student
-- 🔧 Interested in **Embedded Systems & Automotive Electronics**
-- 💻 Developing skills in **Python, C/C++, and Web Development**
-- 🤖 Exploring **AI, Generative AI, LLMs, RAG, and Agentic AI**
-- 🌐 Interested in **IoT and connected systems**
-- 🧠 Currently strengthening **Data Structures & Algorithms**
-- 🛠️ Interested in building practical, real-world engineering projects
-- 📚 Continuously learning and improving through projects and hands-on experimentation
+I use this GitHub to document my experiments, projects, learning, and digital work.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I'm Working On
 
-### Programming
-`C` · `C++` · `Python`
-
-### Embedded & IoT
-`ESP32` · `Arduino` · `Microcontrollers` · `Sensors` · `IoT`
-
-### Automotive & Communication
-`CAN` · `CAN-TP` · `UDS`
-
-### AI & Software
-`Artificial Intelligence` · `Generative AI` · `LLMs` · `RAG` · `Agentic AI`
-
-### Web Development
-`HTML` · `CSS` · `JavaScript` · `React`
-
-### Tools & Platforms
-`Git` · `GitHub` · `VS Code` · `Arduino IDE` · `KiCad`
+- 🤖 AI Automation
+- 🐍 Python Projects
+- 🌐 Website Development
+- 🎨 Canva & Presentation Design
+- 📱 Social Media & Content Projects
+- ✍️ Blogging & Digital Content
+- ▶️ YouTube Projects
+- 💼 Freelancing & Client Work
+- 📊 Personal Finance & Project Tracking
 
 ---
 
-## 🔭 Featured Areas
+## 🛠️ Skills & Tools
 
-### 🔧 Embedded Systems
-Developing and experimenting with microcontroller-based systems, sensors, communication protocols, and hardware-software integration.
+### Technology
+`Python` · `Git` · `GitHub` · `HTML` · `CSS` · `JavaScript`
 
-### 🤖 AI & Generative AI
-Exploring modern AI technologies including LLM applications, Retrieval-Augmented Generation, automation, and AI-powered systems.
+### AI & Automation
+`AI Tools` · `AI Automation` · `Prompt Engineering` · `Workflow Automation`
 
-### 🌱 IoT & Smart Systems
-Building connected systems that combine sensors, embedded hardware, communication, and software dashboards.
+### Design & Content
+`Canva` · `Presentation Design` · `Content Creation` · `Blogging`
 
-### 💻 Software Development
-Improving programming fundamentals, Python, DSA, web development, and software engineering practices.
-
----
-
-## 📌 Projects
-
-Some of the areas I work on include:
-
-- 🌾 **IoT-based Smart Agriculture Systems**
-- 🚗 **Automotive & ADAS Concepts**
-- 🔌 **Embedded Systems & Microcontroller Projects**
-- 🤖 **AI / Generative AI Applications**
-- 🌐 **Web Applications & Dashboards**
-- 👟 **Assistive Technology Projects**
-
-More projects and documentation will be added as I continue building.
+### Digital Work
+`Websites` · `Social Media` · `Client Projects` · `Portfolio Building`
 
 ---
 
-## 📈 Current Learning
+## 📂 Projects
 
-```text
-Embedded Systems     ███████████████░░░
-Python               █████████████░░░░░
-Data Structures      ███████████░░░░░░░
-AI / GenAI           ███████████░░░░░░░
-Web Development      ██████████░░░░░░░░
-System Design        ███████░░░░░░░░░░░
-```
+This profile is used to document my personal learning and digital projects, including:
 
-> My focus is not only on learning technologies, but on using them to build meaningful projects.
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-- Embedded Systems
-- Firmware Development
-- Automotive Electronics
-- IoT
-- Python Development
-- AI / Generative AI
-- Software Development
-- Electronics & Hardware
+- AI automation experiments
+- Python projects
+- Website projects
+- Design work
+- Content and blogging projects
+- Digital products
+- Client-oriented projects
+- Experiments for building online income streams
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Goal
 
-I'm always interested in learning, collaborating, and discussing interesting ideas in **technology, embedded systems, AI, and software development**.
+I'm focused on learning valuable digital skills, building useful projects, developing a strong portfolio, and exploring sustainable ways to earn as a student.
 
-**LinkedIn:** [linkedin.com/in/nakshatrasreesaravanan](https://www.linkedin.com/in/nakshatrasreesaravanan)
-
-**GitHub:** [github.com/nakshatrasaravanan](https://github.com/nakshatrasaravanan)
+> **Learn → Build → Share → Improve → Earn**
 
 ---
 
-### 💡 Build. Learn. Experiment. Improve.
+## 📈 Learning Philosophy
 
-*Always learning, always building.*
+I believe in learning by building.
+
+Instead of only completing courses, I try to turn what I learn into practical projects, experiments, and useful digital work.
+
+---
+
+## 🌐 Portfolio & Work
+
+More projects, experiments, and portfolio work will be added here as I continue building.
+
+---
+
+### ⚡ Building skills. Creating projects. Exploring opportunities.
